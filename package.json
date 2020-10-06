@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/janimuhlestein/zookeepr#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "jest": "^26.5.0"
   }
 }

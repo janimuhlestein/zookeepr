@@ -127,6 +127,17 @@
         "loving"
       ],
       "id": "12"
+    },
+    {
+      "name": "Scarlett",
+      "species": "Turkey",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "hungry",
+        "zany",
+        "loving"
+      ],
+      "id": "13"
     }
   ]
 }
